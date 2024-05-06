@@ -151,3 +151,13 @@ section {
     border: 3px solid dimgrey;
 
 }
+@media(min-width:360px){
+    .contenedor{
+        border: 5px solid lightgreen;
+
+    }
+    .redes div{
+        border: 2px solid lightgreen;
+    }
+
+ }
